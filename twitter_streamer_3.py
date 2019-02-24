@@ -13,7 +13,7 @@ from twitter_credentials import *
 # defining status id for specific tweets
 
 
-status_id_list = ["1099082126354509826", "1099082125523992576", "1099480460772679681"]
+status_id_list = ["10990xxxxxxxxx", "1099082125xxxxxxxxx", "10994804607xxxxxxx"]
 
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
